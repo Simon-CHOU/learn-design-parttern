@@ -45,7 +45,8 @@ public class Demo {
                         "1 - PayPay\n" +
                         "2 - Credit Card");
                 String paymentMethod = reader.readLine();
-
+                //策略模式让你能将各种算法的代码、 内部数据和依赖关系与其他代码隔离开来。
+                // 不同客户端可通过一个简单接口执行算法， 并能在运行时进行切换。
                 if (paymentMethod.equals("1")) {
                     strategy = new PayByPayPal();
                 } else {
