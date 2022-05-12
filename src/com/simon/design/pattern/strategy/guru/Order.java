@@ -1,4 +1,4 @@
-package com.simon.design.pattern.strategy;
+package com.simon.design.pattern.strategy.guru;
 
 public class Order {
     private int totalCost =0;

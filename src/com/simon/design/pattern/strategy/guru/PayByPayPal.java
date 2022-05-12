@@ -1,4 +1,4 @@
-package com.simon.design.pattern.strategy;
+package com.simon.design.pattern.strategy.guru;
 
 import java.io.BufferedReader;
 import java.io.IOException;

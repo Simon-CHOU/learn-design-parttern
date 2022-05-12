@@ -1,9 +1,8 @@
-package com.simon.design.pattern.strategy;
+package com.simon.design.pattern.strategy.guru;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.Buffer;
 import java.util.HashMap;
 import java.util.Map;
 

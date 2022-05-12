@@ -1,4 +1,4 @@
-package com.simon.design.pattern.strategy;
+package com.simon.design.pattern.strategy.guru;
 
 public class CreditCard {
     private int amount;
